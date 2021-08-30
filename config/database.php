@@ -1,7 +1,7 @@
 <?php
 return array(
     "driver"    =>"",
-    "host"      =>"urbano_mysql",
+    "host"      =>"localhost",
     "user"      =>"urbano_test",
     "pass"      =>"Circinus93",
     "database"  =>"urbano_test",
